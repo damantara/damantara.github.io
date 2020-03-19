@@ -1,64 +1,28 @@
-==================================================================================================
+=================================================================================================================
+Pembentukan kelompok dan organisasi kepencinta alaman ini merupakan pencetusan ide dari sebagian mahasiswa UTAMA 
+yang menginginkan adanya suatu wadah untuk menampung dan menyalurkan minat dan bakat mahasiswa 
+dibidangnya yang berlingkup di universitas Tama Jagakarsa. Organisasi ini bernama DAMANTARA,
+yang didirikan pada tanggal 19 November 2013 dan diresmikan sebagai organisasi di kampus 
+pada tanggal 18 Desember 2013 oleh warek III Alm DR. HR. Djajoesman, SA, MM.
 
-DESCRIPTION:
+=================================================================================================================
 
-STELLAR is a creative and modern HTML template designed for agencies, studios or any creative profession. 
-Stellar is fully responsive and retina-ready. This template has animating stats section, stylish 
-portfolio section, built-in Mailchimp integration and much more. It is built with clean and organized 
-code making it very easy to customize.
+Kata “DAMANTARA” sendiri berasal dari 4 kata sansekerta  yang dilebur menjadi satu diantaranya :
+Acitya		: ilmu pengetahuan
+Juwantara	: langit
+Mayapada	: bumi
+Adarma		: pengabdian
 
-==================================================================================================
+=================================================================================================================
 
+Dengan demikian kata “DAMANTARA” memiliki arti   ilmu pengetahuan yang di peroleh  dari langit dan bumi 
+akan kita abdikan kepada masyarakat..
+dengan kata lain segala ilmu pengetahuan yang ada didunia ini semuanya bersumber pada alam 
+yakni langit dan bumi atas izin dari Tuhan Yang Maha Esa 
+dan harus digunakan dan dimanfaatkan dengan sebaik-baiknya 
+untuk kebutuhan masyarakat tanpa harus merusaknya.
 
-USING THE MAILCHIMP FORM:
+=================================================================================================================
 
-To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
-your mailchimp account, click the list menu, click the stats download menu and select signup forms. 
-Then choose embedded forms and select naked form. In the generated form code get the value of 
-the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
-in the template's "js" folder and look for this line of code: 
-
-var cfg = {
-    scrollDuration : 800, // smoothscroll duration
-    mailChimpURL   : 'https://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e6957d85dc'   // mailchimp url
-},
-
-Replace the value of mailChimpURL with your mailchimp url.
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Montserrat Font (https://fonts.google.com/specimen/Montserrat)
- - Merriweather Font (https://fonts.google.com/specimen/Merriweather)
- - Libre Baskerville (https://fonts.google.com/specimen/Libre+Baskerville)
-
-Icons:
- - Font Awesome (https://fontawesome.com/)
- - Streamline Icons (http://www.streamlineicons.com/free-icons.html)
- 
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - pace js (http://github.hubspot.com/pace/)
- - Slick Slider (http://kenwheeler.github.io/slick/)
- - Photoswipe (http://photoswipe.com/)
- - Animate On Scroll (https://michalsnik.github.io/aos/)
- - AjaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
- - Lity lightbox (https://sorgalla.com/lity/)
-
-
--------------------------------------------------------------------------------------------------------
-
-
-
-
-
+Copyright @2020
+-Black-
