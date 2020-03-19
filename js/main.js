@@ -22,7 +22,7 @@
 
     // svg fallback
     if (!Modernizr.svg) {
-        $(".header-logo img").attr("src", "images/logo.png");
+        $(".header-logo img").attr("src", "images/logo.svg");
     }
 
 
