@@ -24,5 +24,5 @@ untuk kebutuhan masyarakat tanpa harus merusaknya.
 
 =================================================================================================================
 
-Copyright @2020
+Copyright @2020 Damantara
 -Black-
