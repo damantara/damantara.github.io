@@ -980,15 +980,15 @@ textarea {
 	animation-timing-function: ease-in-out;
 	animation-iteration-count:infinite;
 	-webkit-animation-name:slider;
-	-webkit-animation-duration:8s;
+	-webkit-animation-duration:4s;
 	-webkit-animation-timing-function: ease-in-out;
 	-webkit-animation-iteration-count:infinite;
 	-moz-animation-name:slider;
-	-moz-animation-duration:8s;
+	-moz-animation-duration:4s;
 	-moz-animation-timing-function: ease-in-out;
 	-moz-animation-iteration-count:infinite;
 	-o-animation-name:slider;
-	-o-animation-duration:16s;
+	-o-animation-duration:20s;
 	-o-animation-timing-function: ease-in-out;
 	-o-animation-iteration-count:infinite;
 }
