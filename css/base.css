@@ -951,14 +951,14 @@ textarea {
 /*# sourceMappingURL=base.css.map */
 
 
-.malasngoding-slider { 
+.damantara-slider { 
 	border: 10px solid #efefef; 
 	position: relative; 
 	overflow: hidden; 
 	background: #efefef;
 }
 
-.malasngoding-slider { 
+.damantara-slider { 
 	margin:20px auto;
 	width: 768px;
 	height: 450px; 
@@ -1006,7 +1006,7 @@ textarea {
 	float: right; 
 }
 
-.malasngoding-slider:after { 
+.damantara-slider:after { 
 	font-size: 150px; 
 	position: absolute; 
 	z-index: 12; 
@@ -1017,7 +1017,7 @@ textarea {
 	transition: 1s all ease-in-out; 
 }
 
-.malasngoding-slider:hover:after { 
+.damantara-slider:hover:after { 
 	color: rgba(255,255,255, 0.6);  
 }
 
