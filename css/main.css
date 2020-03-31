@@ -1520,7 +1520,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:1300px) {
   .display-1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
 
   .section-header .display-1,
@@ -1533,14 +1533,14 @@ input::-moz-focus-inner {
 
 @media only screen and (max-width:1200px) {
   .display-1 {
-    font-size: 4.2rem;
+    font-size: 3.2rem;
   }
 
 }
 
 @media only screen and (max-width:900px) {
   .display-1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .subhead {
@@ -1563,7 +1563,7 @@ input::-moz-focus-inner {
 
 @media only screen and (max-width:700px) {
   .display-1 {
-    font-size: 3.6rem;
+    font-size: 2.5rem;
     margin-bottom: 3.6rem;
   }
 
@@ -1575,14 +1575,14 @@ input::-moz-focus-inner {
 
 @media only screen and (max-width:600px) {
   .display-1 {
-    font-size: 3.5rem;
+    font-size: 2.4rem;
   }
 
 }
 
 @media only screen and (max-width:500px) {
   .display-1 {
-    font-size: 3rem;
+    font-size: 1.9rem;
   }
 
   .subhead {
@@ -1602,7 +1602,7 @@ input::-moz-focus-inner {
 
 @media only screen and (max-width:400px) {
   .display-1 {
-    font-size: 2.8rem;
+    font-size: 1.7rem;
   }
 
 }
