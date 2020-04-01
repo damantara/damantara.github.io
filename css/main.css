@@ -3833,10 +3833,10 @@ div#slider figure {
   animation: 30s slidy infinite;
 }
 }
-/*# Halaman 1 Anggota
+/*# Halaman Angkatan
 ---------------------------- */
 
-.anggota {
+.angkatan {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 4.6rem;
@@ -3844,3 +3844,15 @@ div#slider figure {
   letter-spacing: -0.03rem;
   margin-top: 0;
   margin-bottom: 4.8rem;
+}
+
+/* Halaman Nama Anggota
+----------------------------------*/
+.after-box {
+  position: static;
+  float: left;
+  width: auto;
+  height: auto;
+  margin: auto;
+  border: 2px solid white; 
+}
